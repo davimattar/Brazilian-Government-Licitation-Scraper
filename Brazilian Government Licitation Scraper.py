@@ -77,4 +77,4 @@ for key in list_publ_ini:
             break
 driver.quit()
 
-# Now we have to clean the database saved in futures code updates.
+# Now we have to clean the database in futures code updates.
